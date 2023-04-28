@@ -91,7 +91,7 @@ body {
     font-family: 'Nunito';
     font-style: normal;
     font-weight: 700;
-    font-size: 64px;
+    font-size: 50px;
     line-height: 18px;
     text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
 }
@@ -99,7 +99,32 @@ body {
 .cll li {
     margin-left: 80px;
 }
-.pe{
+.pnp{
+    margin-left: 300px;
+    font-size: 100px;
+    text-decoration: none;
+}
+.cl {
+    background-color: rgba(217, 217, 217);
+    width: 1500px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.cl h1 {
+    margin-left: 100px;
+    color: rgb(26, 46, 112);
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 18px;
+    text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.cl li {
     margin-left: 300px;
     font-size: 50px;
     text-decoration: none;
@@ -250,6 +275,7 @@ body {
     width: 250px;
     height: 250px;
     color: aliceblue;
+    font-size: large;
 }
 
 /* .................Renan.................. */
@@ -312,6 +338,150 @@ body {
     height: 5em;
     width: 8em;
   }
+  
+
+  
+
+
+.mastHead{
+    padding: 0;
+    display: flex;
+    justify-content: center;
+
+}
+.mastHead a{
+    text-decoration: none;
+    color:rgb(26, 46, 112);
+}
+
+.mainNav{
+    display: flex;
+    gap: 3em;
+    position: center, fixed;
+}
+
+.mainNav li{
+    list-style: none;
+    flex-direction: row;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.imgPetShop{
+    color: rgb(26, 46, 112)
+}
+
+.imgInicial{
+    position: center center;
+    height: 700px;
+}
+.cll{
+    background-color: rgba(217, 217, 217);
+    width: 1519px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.cll h1{
+    margin-left: 100px;
+    color: rgb(26, 46, 112);
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 18px;
+    text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+.cll li{
+    margin-left: 80px;
+}
+.imgc{
+    display: block;
+    margin: 0px;
+    text-align: center;
+}
+.granja{
+    font-size: 40px;
+}
+.mastHead img{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+
+.carrinho {
+    position: f;
+    top: 80px;
+    right: 20px;
+    width: 300px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    z-index: 999;
+  }
+  
+  .form-master {
+    width: fit-content;
+    text-transform: uppercase;
+    background-color:#f1f1f1;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    padding: 10em;
+    margin: 0 auto;
+}
+
+.form-master h2 {
+    color: rgb(59, 59, 200);
+    text-align: center;
+    margin-bottom: 15px;
+}
+.form-master p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.form-master input,
+.form-master textarea{
+    border-radius: 20px;
+    padding: 6px 16px;
+    margin-bottom: 25px;
+    background: transparent;
+    border: 1px solid black;
+}
+
+.form-btn{
+    display: flex;
+    justify-content: center;
+}
+
+.form-btn input{
+    background-color: rgb(26, 46, 112);
+    color:white;
+    border: none;
+    border-radius: 5em;
+    height: 5em;
+    width: 10em;
+}
+.form-master input:invalid{
+    animation: shake 0.2s 2;
+    border: 1px solid red;
+}
+@keyframes shake{
+    25% {translate: 6px 0}
+    50% {translate: -6px 0}
+    75% {translate: 6px 0}
+
+}
+
+
+
+
+
+
 
   body{
     margin: 0;
@@ -329,37 +499,35 @@ body {
   }
   
   .rodape {
-    color: rgb(255, 255, 255);
+    color: rgb white;
+    
   }
   
   .instagram {
     width: 25px;
     height: 25px;
     padding: 0;
-    margin-left: 20px;
+    margin-left: 25px;
   }
   
   .facebook {
     width: 25px;
-    ;
     height: 25px;
     padding: 0;
-    margin-left: 45px;
+    margin-left: 25px;
   }
   
   .whatsapp {
     width: 25px;
-    ;
     height: 25px;
     padding: 0;
-    margin-left: 45px;
+    margin-left: 25px;
   }
   
   .twitter {
     width: 25px;
-    ;
     height: 25px;
     padding: 0;
-    marg
+    margin-left: 25px;
   }
   /* .................Renan.................. */
