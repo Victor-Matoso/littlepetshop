@@ -1,5 +1,5 @@
 <h1 align="center"> LITTLE PETSHOP </h1>
-<p align="center">:construction: Projeto em construção :construction:</hp>
+<p align="center">:construction: Projeto em construção :construction:</p>
 
 
 
@@ -11,7 +11,7 @@
 <p> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </p>
 
 
-<h1># Índice </h1>
+# Índice 
 
 * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
