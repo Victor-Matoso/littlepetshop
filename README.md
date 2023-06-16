@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img width= 50px title= caoegato src="![caoegato](https://github.com/Victor-Matoso/littlepetshop/assets/126249122/aa3cdec1-6871-478d-bbf6-06666671dbd5)
+    <img width= 50px title= caoegato src="https://github.com/Victor-Matoso/littlepetshop/assets/126249122/aa3cdec1-6871-478d-bbf6-06666671dbd5
 "/>
 <div>
 
