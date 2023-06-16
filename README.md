@@ -8,4 +8,20 @@
 
 
 <center><h2> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </h2></center>
-<center>_______________________________________________________________________________________________________________________________________________________</center>
+:construction: Projeto em construção :construction:
+# Índice 
+
+# Índice 
+
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
