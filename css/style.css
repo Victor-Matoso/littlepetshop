@@ -265,17 +265,61 @@ body {
     list-style: none;
 }
 
-.flex-item{
+.flex-item1{
     background-color:rgb(26, 46, 112);
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 180%;
-    width: 250px;
+    width: 300px;
+    height: 250px;
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flex-item2{
+    background-color:rgb(26, 46, 112);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 180%;
+    width: 300px;
+    height: 250px;
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flex-item3{
+    background-color:rgb(26, 46, 112);
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-evenly;
+    border-radius: 180%;
+    width: 300px;
+    height: 250px;
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flex-item4{
+    background-color:rgb(26, 46, 112);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 180%;
+    width: 300px;
     height: 250px;
     color: aliceblue;
     font-size: large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* .................Renan.................. */
@@ -427,7 +471,7 @@ body {
   .form-master {
     width: fit-content;
     text-transform: uppercase;
-    background-color:#f1f1f1;
+    background-color:#f1f1f177;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
     padding: 10em;
@@ -507,7 +551,7 @@ body {
     width: 25px;
     height: 25px;
     padding: 0;
-    margin-left: 25px;
+    margin-left: 20px;
   }
   
   .facebook {
