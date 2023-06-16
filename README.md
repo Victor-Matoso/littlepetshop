@@ -10,6 +10,7 @@
 
 <p> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </p>
 
+<br>
 
 <h1 align="left"> Índice </h1>
 
