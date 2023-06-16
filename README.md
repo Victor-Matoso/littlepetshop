@@ -15,7 +15,7 @@
 <h1 align="left"> Índice </h1>
 
 
-*[Título e Imagem da capa](#LITTLEPETSHOP)
+
 
 
 
