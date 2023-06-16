@@ -11,9 +11,9 @@
 
 :construction: Projeto em construção :construction:
 
-# Índice 
+<h1># Índice </h1>
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+<p1>* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -24,4 +24,4 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Conclusão](#conclusão)</p1>
