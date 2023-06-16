@@ -8,7 +8,7 @@
 <div>
 
 
-<p> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </p>
+<p> Essa aplicação é um site de Petshop, que possuí todos os serviços que um pet precisa ter </p>
 
 <br>
 
@@ -20,9 +20,9 @@
 
 <h2 align="left"> Contatos </h2>
 
-<h2 align="left"> HTML </h2>
+<h2 align="left"> Html </h2>
 
-<h2 align="left"> CSS </h2>
+<h2 align="left"> Css </h2>
 
 <h2 align="left"> JavaScript </h2>
 
