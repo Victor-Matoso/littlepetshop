@@ -7,7 +7,6 @@
 <div>
 
 
-<p align="justify"> Essa aplicação é um site de Petshop, que tem objetivo oferecer o melhor atendimento possível para todos os nossos clientes.
- </p>
+<p align="justify"><center> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </p></center>
 <center>__________________________________________________________________________________________________________________________________________________________
 </center>
