@@ -14,6 +14,17 @@
 
 <h1 align="left"> Índice </h1>
 
+<h1 align="left"> Como utilizar o site </h1>
+
+<h1 align="left"> Como nos achar </h1>
+
+<h1 align="left"> Contatos </h1>
+
+<h1 align="left"> HTML </h1>
+
+<h1 align="left"> CSS </h1>
+
+<h1 align="left"> JavaScript </h1>
 
 
 
