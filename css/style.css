@@ -73,7 +73,7 @@ body {
     text-align: center;
 }
 
-.rodape img{
+.rodape img {
     filter: invert(100%);
 }
 
@@ -101,11 +101,13 @@ body {
 .cll li {
     margin-left: 80px;
 }
-.pnp{
+
+.pnp {
     margin-left: 300px;
     font-size: 100px;
     text-decoration: none;
 }
+
 .cl {
     background-color: rgba(217, 217, 217);
     width: 1500px;
@@ -131,6 +133,7 @@ body {
     font-size: 50px;
     text-decoration: none;
 }
+
 .imgc {
     display: block;
     margin: 0px;
@@ -219,6 +222,7 @@ body {
     text-decoration: none;
     color: white;
 }
+
 .mia {
 
     position: center;
@@ -261,14 +265,14 @@ body {
     color: rgba(0, 0, 0, 0.21);
 }
 
-.flex-container{
+.flex-container {
     display: flex;
     gap: 7em;
     list-style: none;
 }
 
-.flex-item1{
-    background-color:rgb(26, 46, 112);
+.flex-item1 {
+    background-color: rgb(26, 46, 112);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -285,8 +289,9 @@ body {
     box-shadow: -5px 5px 4px black;
 
 }
-.flex-item2{
-    background-color:rgb(26, 46, 112);
+
+.flex-item2 {
+    background-color: rgb(26, 46, 112);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -303,8 +308,9 @@ body {
     box-shadow: 5px -5px 4px black;
 
 }
-.flex-item3{
-    background-color:rgb(26, 46, 112);
+
+.flex-item3 {
+    background-color: rgb(26, 46, 112);
     display: flex;
     flex-direction: column;
     align-items: left;
@@ -321,17 +327,18 @@ body {
     box-shadow: -5px -5px 4px black;
 
 }
-.flex-item4{
-    background-color:rgb(26, 46, 112);
+
+.flex-item4 {
+    background-color: rgb(26, 46, 112);
     display: flex;
     flex-direction: column;
-    align-items:center;
+    align-items: center;
     justify-content: space-evenly;
     border-radius: 180%;
     width: 300px;
     height: 250px;
     color: aliceblue;
-    font-size:x-large;
+    font-size: x-large;
     text-align: center;
     position: relative;
     bottom: 70px;
@@ -340,17 +347,17 @@ body {
 }
 
 /* .................Renan.................. */
-.mapa{
+.mapa {
     z-index: -1;
-    background-image: none;
-  }
-  
-  .form-master a{
+    /* background-image: none; */
+}
+
+.form-master a {
     display: flex;
     justify-content: center;
-  }
-  
-  .form-master {
+}
+
+.form-master {
     width: 450px;
     background-color: #f1f1f1;
     border-radius: 10px;
@@ -362,67 +369,66 @@ body {
     flex-direction: column;
     align-content: center;
     justify-content: center;
-  }
-  
-  .form-master h2 {
+
+
+}
+
+.form-master h2 {
     color: rgb(2, 2, 2);
     text-align: center;
     margin-bottom: 5px;
-  }
-  
-  .form-master p {
+}
+
+.form-master p {
     text-align: center;
     margin-top: 0;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
-  }
-  
-  .form-master input,
-  .form-master textarea {
+}
+
+.form-master input,
+.form-master textarea {
     border-radius: 10px;
     padding: 6px 16px;
     margin-bottom: 30px;
     background: transparent;
     border: 1px solid black;
-  }
-  
-  
-  .form-btn {
+}
+
+
+.form-btn {
     display: flex;
     justify-content: center;
-  }
-  
-  .form-btn input {
+}
+
+.form-btn input {
     background-color: orange;
     color: white;
     border: none;
     border-radius: 2em;
     height: 5em;
     width: 8em;
-  }
-  
+}
 
-  
-
-
-.mastHead{
+.mastHead {
     padding: 0;
     display: flex;
     justify-content: center;
 
 }
-.mastHead a{
+
+.mastHead a {
     text-decoration: none;
-    color:rgb(26, 46, 112);
+    color: rgb(26, 46, 112);
 }
 
-.mainNav{
+.mainNav {
     display: flex;
     gap: 3em;
     position: center, fixed;
 }
 
-.mainNav li{
+.mainNav li {
     list-style: none;
     flex-direction: row;
     font-family: Arial, Helvetica, sans-serif;
@@ -430,15 +436,16 @@ body {
     font-weight: bold;
 }
 
-.imgPetShop{
+.imgPetShop {
     color: rgb(26, 46, 112)
 }
 
-.imgInicial{
+.imgInicial {
     position: center center;
     height: 700px;
 }
-.cll{
+
+.cll {
     background-color: rgba(217, 217, 217);
     width: 1519px;
     height: 100px;
@@ -446,7 +453,8 @@ body {
     align-items: center;
     text-decoration: none;
 }
-.cll h1{
+
+.cll h1 {
     margin-left: 100px;
     color: rgb(26, 46, 112);
     font-family: 'Nunito';
@@ -456,18 +464,22 @@ body {
     line-height: 18px;
     text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
 }
-.cll li{
+
+.cll li {
     margin-left: 80px;
 }
-.imgc{
+
+.imgc {
     display: block;
     margin: 0px;
     text-align: center;
 }
-.granja{
+
+.granja {
     font-size: 40px;
 }
-.mastHead img{
+
+.mastHead img {
     width: 50px;
     height: 50px;
     position: absolute;
@@ -484,12 +496,12 @@ body {
     border: 1px solid #ccc;
     padding: 10px;
     z-index: 999;
-  }
-  
-  .form-master {
+}
+
+.form-master {
     width: fit-content;
     text-transform: uppercase;
-    background-color:#f1f1f177;
+    background-color: #f1f1f177;
     border-radius: 10px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
     padding: 10em;
@@ -501,13 +513,15 @@ body {
     text-align: center;
     margin-bottom: 15px;
 }
-.form-master p{
+
+.form-master p {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
 }
+
 .form-master input,
-.form-master textarea{
+.form-master textarea {
     border-radius: 20px;
     padding: 6px 16px;
     margin-bottom: 25px;
@@ -515,27 +529,37 @@ body {
     border: 1px solid black;
 }
 
-.form-btn{
+.form-btn {
     display: flex;
     justify-content: center;
 }
 
-.form-btn input{
+.form-btn input {
     background-color: rgb(26, 46, 112);
-    color:white;
+    color: white;
     border: none;
     border-radius: 5em;
     height: 5em;
     width: 10em;
 }
-.form-master input:invalid{
+
+.form-master input:invalid {
     animation: shake 0.2s 2;
     border: 1px solid red;
 }
-@keyframes shake{
-    25% {translate: 6px 0}
-    50% {translate: -6px 0}
-    75% {translate: 6px 0}
+
+@keyframes shake {
+    25% {
+        translate: 6px 0
+    }
+
+    50% {
+        translate: -6px 0
+    }
+
+    75% {
+        translate: 6px 0
+    }
 
 }
 
@@ -545,11 +569,11 @@ body {
 
 
 
-  body{
+body {
     margin: 0;
-  }
-  
-  .rodape {
+}
+
+.rodape {
     width: 1500px;
     height: 300px;
     padding: 0;
@@ -558,74 +582,78 @@ body {
     margin: 0 auto;
     background-color: rgb(59, 59, 202);
     margin-top: 75px;
-  }
-  
-  .rodape {
+}
+
+.rodape {
     color: rgb white;
-    
-  }
-  
-  .instagram {
+
+}
+
+.instagram {
     width: 25px;
     height: 25px;
     padding: 0;
     margin-left: 20px;
-  }
-  
-  .facebook {
+}
+
+.facebook {
     width: 25px;
     height: 25px;
     padding: 0;
     margin-left: 25px;
-  }
-  
-  .whatsapp {
+}
+
+.whatsapp {
     width: 25px;
     height: 25px;
     padding: 0;
     margin-left: 25px;
-  }
-  
-  .twitter {
+}
+
+.twitter {
     width: 25px;
     height: 25px;
     padding: 0;
     margin-left: 25px;
-  }
+}
 
 
-  .lista-rolante {
-    width: 200px; /* Defina a largura desejada */
-    height: 150px; /* Defina a altura desejada */
-    overflow: hidden; /* Esconde o conteúdo que ultrapassar as dimensões */
-  }
-  
-  .lista-rolante ul {
+.lista-rolante {
+    width: 200px;
+    /* Defina a largura desejada */
+    height: 150px;
+    /* Defina a altura desejada */
+    overflow: hidden;
+    /* Esconde o conteúdo que ultrapassar as dimensões */
+}
+
+.lista-rolante ul {
     padding: 0;
     margin: 0;
     list-style: none;
-    animation: rolar 10s infinite; /* Define a animação de rolagem */
-  }
-  
-  .lista-rolante li {
-    padding: 10px;
-  }
-  
-  @keyframes rolar {
-    0% {
-      transform: translatex(0);
-    }
-    100% {
-      transform: translatex(-100%);
-    }
-  }
+    animation: rolar 10s infinite;
+    /* Define a animação de rolagem */
+}
 
-  .lista-rolante{
+.lista-rolante li {
+    padding: 10px;
+}
+
+@keyframes rolar {
+    0% {
+        transform: translatex(0);
+    }
+
+    100% {
+        transform: translatex(-100%);
+    }
+}
+
+.lista-rolante {
     list-style: none;
-  }
-  
-  .lista-rolante li {
+}
+
+.lista-rolante li {
     display: inline-block;
-    margin-right: 5px;
-  }
-  
+    margin-right: 5px;
+}
