@@ -12,19 +12,19 @@
 
 <br>
 
-<h1 align="left"> Índice </h1>
+<h2 align="left"> Índice </h2>
 
-<h1 align="left"> Como utilizar o site </h1>
+<h2 align="left"> Como utilizar o site </h2>
 
-<h1 align="left"> Como nos achar </h1>
+<h2 align="left"> Como nos achar </h2>
 
-<h1 align="left"> Contatos </h1>
+<h2 align="left"> Contatos </h2>
 
-<h1 align="left"> HTML </h1>
+<h2 align="left"> HTML </h2>
 
-<h1 align="left"> CSS </h1>
+<h2 align="left"> CSS </h2>
 
-<h1 align="left"> JavaScript </h1>
+<h2 align="left"> JavaScript </h2>
 
 
 
