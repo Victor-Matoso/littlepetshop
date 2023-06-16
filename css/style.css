@@ -59,6 +59,8 @@ body {
     color: rgb(25, 58, 106);
 } */
 
+
+
 .imgC {
     display: block;
     margin: 0 auto;
@@ -311,7 +313,7 @@ body {
     background-color:rgb(26, 46, 112);
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items:;
     justify-content: space-evenly;
     border-radius: 180%;
     width: 300px;
@@ -574,3 +576,7 @@ body {
     padding: 0;
     margin-left: 25px;
   }
+
+
+
+  
