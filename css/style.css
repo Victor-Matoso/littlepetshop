@@ -279,7 +279,11 @@ body {
     color: aliceblue;
     font-size: x-large;
     text-align: center;
+    position: relative;
+    top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: -5px 5px 4px black;
+
 }
 .flex-item2{
     background-color:rgb(26, 46, 112);
@@ -293,7 +297,11 @@ body {
     color: aliceblue;
     font-size: x-large;
     text-align: center;
+    position: relative;
+    bottom: 70px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 5px -5px 4px black;
+
 }
 .flex-item3{
     background-color:rgb(26, 46, 112);
@@ -307,26 +315,34 @@ body {
     color: aliceblue;
     font-size: x-large;
     text-align: center;
+    position: relative;
+    top: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: -5px -5px 4px black;
+
 }
 .flex-item4{
     background-color:rgb(26, 46, 112);
     display: flex;
     flex-direction: column;
-    align-items:;
+    align-items:center;
     justify-content: space-evenly;
     border-radius: 180%;
     width: 300px;
     height: 250px;
     color: aliceblue;
-    font-size: large;
+    font-size:x-large;
     text-align: center;
+    position: relative;
+    bottom: 70px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 5px 5px 4px black;
 }
 
 /* .................Renan.................. */
 .mapa{
     z-index: -1;
+    background-image: none;
   }
   
   .form-master a{
@@ -341,7 +357,7 @@ body {
     box-shadow: 5px 5px 10px rgba(0, 0, 0.2);
     padding: 2em;
     margin: auto;
-    margin-top: -400px;
+    margin-top:-400px;
     display: flex;
     flex-direction: column;
     align-content: center;
@@ -534,8 +550,8 @@ body {
   }
   
   .rodape {
-    width: 100%;
-    height: 200px;
+    width: 1500px;
+    height: 300px;
     padding: 0;
     text-align: center;
     display: block;
@@ -578,5 +594,38 @@ body {
   }
 
 
+  .lista-rolante {
+    width: 200px; /* Defina a largura desejada */
+    height: 150px; /* Defina a altura desejada */
+    overflow: hidden; /* Esconde o conteúdo que ultrapassar as dimensões */
+  }
+  
+  .lista-rolante ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    animation: rolar 10s infinite; /* Define a animação de rolagem */
+  }
+  
+  .lista-rolante li {
+    padding: 10px;
+  }
+  
+  @keyframes rolar {
+    0% {
+      transform: translatex(0);
+    }
+    100% {
+      transform: translatex(-100%);
+    }
+  }
 
+  .lista-rolante{
+    list-style: none;
+  }
+  
+  .lista-rolante li {
+    display: inline-block;
+    margin-right: 5px;
+  }
   
