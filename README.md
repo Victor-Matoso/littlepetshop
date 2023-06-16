@@ -1,5 +1,5 @@
 <h1 align="center"> LITTLE PETSHOP </h1>
-<center>:construction: Projeto em construção :construction:</center>
+<p align="center">:construction: Projeto em construção :construction:</hp>
 
 
 
