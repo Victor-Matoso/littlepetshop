@@ -27,6 +27,3 @@
 <h2 align="left"> JavaScript </h2>
 
 
-
-
-
