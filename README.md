@@ -11,9 +11,9 @@
 <p> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </p>
 
 
-<h1 align="center"> Índice 
+<h1 align="right"> Índice </h1>
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+<p align="right"> * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
@@ -24,4 +24,4 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)</h1>
+* [Conclusão](#conclusão)</p>
