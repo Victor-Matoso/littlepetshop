@@ -8,7 +8,7 @@
 <div>
 
 
-<p> Essa aplicação é um site de Petshop, que possuí todos os serviços que um pet precisa ter </p>
+<p> Essa aplicação é um site de Petshop, que possuí todos os serviços que um pet precisa ter, com aba de contatos, localização e serviços oferecidos </p>
 
 <br>
 
