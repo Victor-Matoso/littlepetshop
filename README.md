@@ -1,3 +1,4 @@
+<p1>:construction: Projeto em construção :construction:</p1>
 <h1 align="center"> LITTLE PETSHOP </h1>
 
 
@@ -7,9 +8,8 @@
 <div>
 
 
-<center><h2> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </h2></center>
+<h2> Essa aplicação é um site de Petshop, que tem objetivo oferecer a melhor e a mais simples maneira de donos de pets cuidarem deles </h2>
 
-:construction: Projeto em construção :construction:
 
 <h1># Índice </h1>
 
