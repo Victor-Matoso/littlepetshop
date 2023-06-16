@@ -13,7 +13,8 @@
 
 <h1 align="left"> Índice </h1>
 
-<p align="left"> * [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+<p align="left"> 
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
